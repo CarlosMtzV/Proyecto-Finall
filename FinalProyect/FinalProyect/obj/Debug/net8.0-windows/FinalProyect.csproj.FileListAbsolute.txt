@@ -1,0 +1,93 @@
+F:\info2do\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.exe
+F:\info2do\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.deps.json
+F:\info2do\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.runtimeconfig.json
+F:\info2do\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.dll
+F:\info2do\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.pdb
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form1.resources
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.GenerateResource.cache
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.GeneratedMSBuildEditorConfig.editorconfig
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfoInputs.cache
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfo.cs
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.CoreCompileInputs.cache
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.dll
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\refint\FinalProyect.dll
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.pdb
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.genruntimeconfig.cache
+F:\info2do\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\ref\FinalProyect.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.exe
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.deps.json
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.runtimeconfig.json
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.pdb
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form1.resources
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfo.cs
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\refint\FinalProyect.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.pdb
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.genruntimeconfig.cache
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\ref\FinalProyect.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalPro.8C0A1D03.Up2Date
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form2.resources
+C:\Users\pc\Desktop\4D CARLOS\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form3.resources
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.exe
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.deps.json
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.runtimeconfig.json
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.dll
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.pdb
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\itextsharp.dll
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.AssemblyReference.cache
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form1.resources
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form2.resources
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form3.resources
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.GenerateResource.cache
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfoInputs.cache
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfo.cs
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.CoreCompileInputs.cache
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalPro.8C0A1D03.Up2Date
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.dll
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\refint\FinalProyect.dll
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.pdb
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.genruntimeconfig.cache
+E:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\ref\FinalProyect.dll
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.exe
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.deps.json
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.runtimeconfig.json
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.dll
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\FinalProyect.pdb
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\itextsharp.dll
+D:\FinalProyect\FinalProyect\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.AssemblyReference.cache
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form1.resources
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form2.resources
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Form3.resources
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.GenerateResource.cache
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfoInputs.cache
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.AssemblyInfo.cs
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.csproj.CoreCompileInputs.cache
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalPro.8C0A1D03.Up2Date
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.dll
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\refint\FinalProyect.dll
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.pdb
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.genruntimeconfig.cache
+D:\FinalProyect\FinalProyect\obj\Debug\net8.0-windows\ref\FinalProyect.dll
